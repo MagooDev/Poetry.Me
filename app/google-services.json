@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468763586825",
+    "project_id": "poetryme-6abe8",
+    "storage_bucket": "poetryme-6abe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468763586825:android:1e861a7a51c7da6182e3d8",
+        "android_client_info": {
+          "package_name": "com.chrishansendev.poetryme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468763586825-sivop0ij3rfv5lktc03qqj31fpc607ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chrishansendev.poetryme",
+            "certificate_hash": "72b28f457c1abf4c7cfb6144b04983bc025bd3fa"
+          }
+        },
+        {
+          "client_id": "468763586825-5bt0o0eken91tf9edtqv6il73bls2nn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMyaLBDsVg_8FJJ_TPedOE0B0KZLqGME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468763586825-5bt0o0eken91tf9edtqv6il73bls2nn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
