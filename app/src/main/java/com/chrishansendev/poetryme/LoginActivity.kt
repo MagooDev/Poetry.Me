@@ -13,14 +13,14 @@ import java.util.Timer
 import kotlin.concurrent.schedule
 
 
-class MainActivity : AppCompatActivity() {
+class LoginActivity : AppCompatActivity() {
 
     var contentHasLoaded = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         val splashScreen = installSplashScreen()
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_login)
 
         startLoadingContent()
         setupSplashScreen(splashScreen)
